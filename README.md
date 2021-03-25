@@ -1,2 +1,18 @@
 # Data-Scientist-Nanodegree-Udacity
 This repo contains the project completed for Udacity's Data Scientist Nanodegree.
+
+
+### 1 Solving Data Science Problems
+Learn the data science process, including how to build effective data visualizations, and how to communicate with various stakeholders.
+
+### 2 Software Engineering for Data Scientists
+Develop software engineering skills that are essential for data scientists, such as creating unit tests and building classes.
+
+### 3 Data Engineering for Data Scientists
+Learn to work with data through the entire data science process, from running pipelines, transforming data, building models, and deploying solutions to the cloud.
+
+### 4 Experiment Design and Recommendations
+Learn to design experiments and analyze A/B test results. Explore approaches for building recommendation systems.
+
+### 5 Data Science Projects
+Leverage what you’ve learned throughout the program to build your own open-ended Data Science project. This project will serve as a demonstration of your valuable abilities as a Data Scientist.
