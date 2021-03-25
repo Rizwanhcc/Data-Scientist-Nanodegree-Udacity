@@ -56,10 +56,10 @@ In the final step of this project, we have to build a Flask web app where a user
 
 ### 4. Web App images
 
-![picture](https://github.com/Rizwanhcc/Disaster_Response_Project/blob/main/Images/result.png)
-![picture2](https://github.com/Rizwanhcc/Disaster_Response_Project/blob/main/Images/one.png)
-![picture3](https://github.com/Rizwanhcc/Disaster_Response_Project/blob/main/Images/two.png)
-![picture4](https://github.com/Rizwanhcc/Disaster_Response_Project/blob/main/Images/three.png)
+![picture](https://github.com/Rizwanhcc/Data-Scientist-Nanodegree-Udacity/blob/main/Disaster_Response_Project/Images/result.png)
+![picture2](https://github.com/Rizwanhcc/Data-Scientist-Nanodegree-Udacity/blob/main/Disaster_Response_Project/Images/one.png)
+![picture3](https://github.com/Rizwanhcc/Data-Scientist-Nanodegree-Udacity/blob/main/Disaster_Response_Project/Images/two.png)
+![picture4](https://github.com/Rizwanhcc/Data-Scientist-Nanodegree-Udacity/blob/main/Disaster_Response_Project/Images/three.png)
 
 <a id='tree'></a>
 
