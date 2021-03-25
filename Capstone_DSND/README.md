@@ -88,13 +88,13 @@ You can read the blog post of this project [here](https://webdevelopmentyschools
 
 
 
-![picture](https://github.com/Rizwanhcc/Capstone_DSND/blob/main/Images/1.png)
-![picture2](https://github.com/Rizwanhcc/Capstone_DSND/blob/main/Images/2.png)
-![picture3](https://github.com/Rizwanhcc/Capstone_DSND/blob/main/Images/3.png)
-![picture4](https://github.com/Rizwanhcc/Capstone_DSND/blob/main/Images/4.png)
-![picture5](https://github.com/Rizwanhcc/Capstone_DSND/blob/main/Images/5.png)
-![picture6](https://github.com/Rizwanhcc/Capstone_DSND/blob/main/Images/6.png)
-![picture7](https://github.com/Rizwanhcc/Capstone_DSND/blob/main/Images/Screenshot%202021-01-11%20at%2023.51.51.png)
+![picture](https://github.com/Rizwanhcc/Data-Scientist-Nanodegree-Udacity/blob/main/Capstone_DSND/Images/1.png)
+![picture2](https://github.com/Rizwanhcc/Data-Scientist-Nanodegree-Udacity/blob/main/Capstone_DSND/Images/2.png)
+![picture3](https://github.com/Rizwanhcc/Data-Scientist-Nanodegree-Udacity/blob/main/Capstone_DSND/Images/3.png)
+![picture4](https://github.com/Rizwanhcc/Data-Scientist-Nanodegree-Udacity/blob/main/Capstone_DSND/Images/4.png)
+![picture5](https://github.com/Rizwanhcc/Data-Scientist-Nanodegree-Udacity/blob/main/Capstone_DSND/Images/5.png)
+![picture6](https://github.com/Rizwanhcc/Data-Scientist-Nanodegree-Udacity/blob/main/Capstone_DSND/Images/6.png)
+![picture7](https://github.com/Rizwanhcc/Data-Scientist-Nanodegree-Udacity/blob/main/Capstone_DSND/Images/Screenshot%202021-01-11%20at%2023.51.51.png)
 
 <a id='tree'></a>
 
